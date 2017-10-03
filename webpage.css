@@ -1,0 +1,108 @@
+body {
+  background: green;
+  color: white;
+  padding: 10px;
+  font-family: georgia;
+}
+.all {
+  margin: 10px;
+}
+h1 {
+  text-align: center;
+}
+.header {
+  background: blue;
+  overflow: hidden;
+  border: solid;
+  border-color: black;
+}
+nav {
+  text-align: center;
+  list-style-position: inside;
+}
+a:hover {
+  color: orange;
+  font-size: 2em;
+}
+
+a {
+  color: beige;
+}
+h2 {
+  color: lightblue;
+  }
+.Andrew1 {
+    border: solid;
+    overflow: hidden;
+    padding: 1em;
+  }
+#chess {
+  float: left;
+  margin-right: 2em;
+}
+p {
+  text-align: justify;
+}
+.Austin_one {
+
+}
+#hiking {
+  float: right;
+  clear: both;
+  border: 15px solid black;
+  padding: 10px;
+  margin-left: 2em;
+}
+.Austin1 {
+  background: blue;
+  clear: both;
+  overflow: hidden;
+  border: solid;
+  border-color: black;
+  padding: 1em;
+}
+.Tim1 {
+  clear: both;
+  border: solid;
+  overflow: hidden;
+  border-color: pink;
+  padding: 1em;
+}
+#movie {
+  float: left;
+  border-style: dotted;
+  border-width: thick;
+  border-color: black;
+  padding: 2px;
+  margin-right: 2em;
+}
+img {
+  padding: 10px;
+  border-radius: 50%;
+}
+.img1-border {
+  float: left;
+  margin: 10px;
+  background-color: black;
+  border: solid;
+  border-style: ridge;
+  border-color: gray;
+  border-width: 1em;
+}
+button {
+  text-align: center;
+  color: yellow;
+  background-color: purple;
+  position: ;
+}
+footer {
+  clear: both;
+  text-align: center;
+  background: blue;
+  overflow: hidden;
+  border: solid;
+  border-color: black;
+}
+#backtotop {
+
+}
